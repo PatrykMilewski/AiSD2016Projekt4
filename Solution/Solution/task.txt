@@ -1,0 +1,58 @@
+Spacer Czerwonego Kapturka
+
+Czerwony Kapturek chodzi³a do babci najkrótsz¹ drog¹. Jednak dziœ chce przejœæ inn¹ tras¹, musi byæ to tak¿e bardzo krótka droga, bo niesie ciep³y obiad dla babci. Poprosi³a Ciê o znalezienie drugiej najkrótszej trasy pomiêdzy jej domkiem, a domkiem babci.
+Uwaga: Druga najkrótsza droga nie mo¿e zawieraæ w ca³oœci pierwszej drogi.
+Wejœcie
+
+W pierwszej linii znajduj¹ siê dwie liczby n m - pierwsza, to liczba skrzy¿owañ w lesie, druga, to liczba dróg pomiêdzy skrzy¿owaniami.
+Nastêpnie w m kolejnych liniach wypisane s¹ trzy liczby v u w - drogi pomiêdzy skrzy¿owaniami v i u wraz z odleg³oœci¹ w pomiêdzy nimi.
+Skrzy¿owania indeksowane s¹ od 0. Czerwony Kapturek zaczyna podró¿ na skrzy¿owaniu o indeksie 0 i musi dojœæ do skrzy¿owania o indeksie n-1, gdzie mieszka babcia.
+Wyjœcie
+
+W linii nale¿y wypisaæ dwie liczby - najkrótsz¹ odleg³oœæ i drug¹ najkrótsz¹ odleg³oœæ pomiêdzy domami Czerwonego Kapturka i babci. Jeœli nie ma najkrótszej drogi lub drugiej najkrótszej drogi pomiêdzy domem Czerwonego Kapturka a domem babci nale¿y wpisaæ #.
+Przyk³ad
+
+Wejœcie
+7 8
+0 1 1
+1 2 1
+4 0 1
+2 4 2
+2 3 2
+5 2 1
+3 6 1
+6 5 1
+
+Wyjœcie
+4 5
+
+
+Wejœcie
+4 4
+0 1 1
+0 2 1
+3 1 1
+3 2 1
+
+Wyjœcie
+2 2
+
+
+Wejœcie
+3 2
+0 1 1
+1 2 1
+
+Wyjœcie
+#
+
+Wejœcie
+5 5
+0 1 1
+1 2 1
+3 1 1
+2 3 1
+1 4 1
+
+Wyjœcie
+#
